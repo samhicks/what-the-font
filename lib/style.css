@@ -18,10 +18,30 @@
 }
 
 .droid {
-	font-family: 'DroidSerifRegular';
+	font-family: 'DroidSerifRegular', sans-serif;
 }
 
+
+/* Quattrocento */
+
+@import url(http://fonts.googleapis.com/css?family=Quattrocento+Sans:400,400italic,700,700italic);
+.quattrocento {
+	font-family: 'Quattrocento Sans', sans-serif;
+}
+
+/* Antic Slab */
+
+@import url(http://fonts.googleapis.com/css?family=Antic+Slab);
+.anticslab {
+	font-family: 'Antic Slab', serif;
+}
+
+
+
+
+
 /* Insert more fonts to test out here */
+
 
 
 
